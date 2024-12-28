@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**_Who am I?_
+**_Who am I?_**
 
-_I,_**
-
-🏫 graduated from British Columbia Institute of Technology with a major in Computer System Technology in Dec, 2024
-🌟 am passionate about creating innovative software solutions and continuously learning new technologies
-😎 want to be professional full-stack developer
+_I_  
+🏫 Graduated from British Columbia Institute of Technology with a major in Computer Systems Technology in Dec, 2024  
+🌟 Passionate about creating innovative software solutions and continuously learning new technologies  
+😎 Aspiring to be a professional full-stack developer  
 ---
 ### Projects
 | **Project Name**                      | **Description**                                         | **Tech Stack**                     | **Type**      | **Date**       |
@@ -34,5 +33,5 @@ _I,_**
 - Email: ungdunge2@gmail.com
 ---
 📊 **GitHub Stats:**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EunjeongHur&show_icons=true&theme=radical)
 
