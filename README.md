@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 **_Who am I?_**
 
-_I_  
-🏫 Graduated from British Columbia Institute of Technology with a major in Computer Systems Technology in Dec, 2024  
-🌟 Passionate about creating innovative software solutions and continuously learning new technologies  
-😎 Aspiring to be a professional full-stack developer  
+I,  
+- 🏫 Graduated from British Columbia Institute of Technology with a major in Computer Systems Technology in Dec, 2024  
+- 🌟 Passionate about creating innovative software solutions and continuously learning new technologies  
+- 😎 Aspiring to be a professional full-stack developer  
 ---
+
 ### Projects
 | **Project Name**                      | **Description**                                         | **Tech Stack**                     | **Type**      | **Date**       |
 |---------------------------------------|---------------------------------------------------------|-------------------------------------|---------------|----------------|
@@ -31,7 +32,4 @@ _I_
 - [LinkedIn](https://linkedin.com/in/eunjeonghur)  
 - [Portfolio](https://butternut-kumquat-0bb.notion.site/Portfolio-1698c6aa591f8089ab80dc25f5ec061b)  
 - Email: ungdunge2@gmail.com
----
-📊 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EunjeongHur&show_icons=true&theme=radical)
 
