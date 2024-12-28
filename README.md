@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 **_Who am I?_**
 
 I,  
-- 🏫 Graduated from British Columbia Institute of Technology with a major in Computer Systems Technology in Dec, 2024  
-- 🌟 Passionate about creating innovative software solutions and continuously learning new technologies  
-- 😎 Aspiring to be a professional full-stack developer  
+- 🏫 graduated from British Columbia Institute of Technology with a major in Computer Systems Technology in Dec, 2024  
+- 🌟 am passionate about creating innovative software solutions and continuously learning new technologies  
+- 😎 am aspiring to be a professional full-stack developer  
 ---
 
 ### Projects
