@@ -25,7 +25,7 @@ I,
 ### Projects
 | **Project Name**                      | **Description**                                         | **Tech Stack**                     | **Type**      | **Date**       |
 |---------------------------------------|---------------------------------------------------------|-------------------------------------|---------------|----------------|
-| [**Splitzy**]([https://github.com/EunjeongHur/Splitzy_App](https://github.com/EunjeongHur/Splitzy_App)) | A mobile app for managing group expenses efficiently.   | React Native, TypeScript, Node.js, Express.js, MySQL       | Personal      | December 2024  |
+|[**Splitzy**](https://github.com/EunjeongHur/Splitzy_App) | A mobile app for managing group expenses efficiently.   | React Native, TypeScript, Node.js, Express.js, MySQL       | Personal      | December 2024  |
 | **Klio** | A budgeting app that saves details from uploaded receipts for easy expense tracking               | React Native, Spring Boot, PostgreSQL (via AWS RDS), Tesseract OCR         | Personal      | In development |
 ---
 ## 📫 Reach Me
